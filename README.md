@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tristen Coleman
-- 👀 I’m interested in Business Analytics, Data collection, Project Management, Tech Sales
+- 👀 I’m interested in Business Analytics, Data collection, Project Management, cloud, and cybersecurity
 - 🌱 I’m currently learning Javascript, little bit of Machine Learning
 - 💞️ I’m looking to collaborate on projects of any sort that interest me
 - 📫 How to reach me: Tcolem55@gmail.com
